@@ -10,10 +10,11 @@
     "jsx": "react",
     "allowSyntheticDefaultImports": true,
     "rootDir": "./src",
-    "outDir": "./lib",
+    "outDir": "./dist",
     "module": "ES2020",
-    "moduleResolution": "Node",
+    "moduleResolution": "node",
     "declaration": true
   },
   "exclude": ["./test", "./app"]
 }
+
